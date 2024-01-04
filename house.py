@@ -38,7 +38,7 @@ property_type_mapping = {"Apartment": 0,
                          
                          
 #reading pickle file
-with open("model.pkl",'rb')as f:
+with open("Model.pkl",'rb')as f:
     model=pickle.load(f)
     
     
