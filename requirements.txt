@@ -1,6 +1,6 @@
-numpy
-streamilt
-pickle
+numpy:none
+streamilt:none
+pickle:none
 #flask==2.2.5
 #scikit-learn
 
