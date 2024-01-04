@@ -1,4 +1,4 @@
-numpy:none
+numpy:23:.3.2
 streamilt:none
 pickle:none
 #flask==2.2.5
