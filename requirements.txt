@@ -1,5 +1,6 @@
-#flask==2.2.5
-scikit-learn
 numpy
 streamilt
 pickle
+#flask==2.2.5
+#scikit-learn
+
