@@ -2,6 +2,6 @@ numpy:1.26.2
 pickle
 xgboost
 streamlit
-#flask==2.2.5
+#flask== 3.0.0
 #scikit-learn
 
