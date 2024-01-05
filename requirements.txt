@@ -1,4 +1,4 @@
-numpy==1.26.2
+numpy
 pickle
 xgboost
 streamlit
