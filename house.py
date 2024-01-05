@@ -38,7 +38,7 @@ property_type_mapping = {"Apartment": 0,
                          
                          
 #reading pickle file
-with open("Model.pkl",'rb')as f:
+with open("model.pkl",'rb')as f:
     model=pickle.load(f)
     
     
@@ -72,4 +72,3 @@ if __name__ == "__main__":
         larger_text = f"<h2 style='color: blue;'>The Predicted House Price is : {format(result, '.2f')} Lakhs</h2>"
         st.markdown(larger_text, unsafe_allow_html=True)
         
-
