@@ -1,7 +1,7 @@
 numpy
-streamilt
 pickle
 xgboost
+streamlit
 #flask==2.2.5
 #scikit-learn
 
