@@ -1,6 +1,7 @@
-numpy:22:.0.3;
-streamilt:none
-pickle:none
+numpy
+streamilt
+pickle
+xgboost
 #flask==2.2.5
 #scikit-learn
 
